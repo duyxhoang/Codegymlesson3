@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<table border="1">
+		<tr>
+			<td colspan="10">Bảng xếp hạng bóng đá Ngoại Hạng Anh 2019/2020</td>
+		</tr>
+		<tr>
+			<td colspan="3">Đội bóng</td>
+			<td colspan="5">Thành tích</td>
+			<td colspan="2">HS/Điểm</td>
+		</tr>
+		<tr>
+			<td>TT</td>
+			<td>CLB</td>
+			<td>ST</td>
+			<td>T</td>
+			<td>H</td>
+			<td>B</td>
+			<td>Tg</td>
+			<td>Th</td>
+			<td>HS</td>
+			<td>Đ</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td align="center">Liverpool</td>
+			<td>38</td>
+			<td>32</td>
+			<td>3</td>
+			<td>3</td>
+			<td>85</td>
+			<td>33</td>
+			<td>+52</td>
+			<td>99</td>
+		</tr>
+	</table>
+
+	<br/>
+	<br/>
+
+	<table border="1">
+		<tr>
+			<td rowspan="2">Ho va ten</td>
+			<td rowspan="2">So dien thoai</td>
+			<td rowspan="2">Email</td>
+			<td colspan="2">Gioi tinh</td>
+		</tr>
+		<tr>
+			<td>Nam</td>
+			<td>Nu</td>
+		</tr>
+		<tr>
+			<td>Do A</td>
+			<td>012345678</td>
+			<td>vuduyhoang@gmail.com</td>
+			<td></td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>Do B</td>
+			<td>012345678</td>
+			<td>vuduyhoang@gmail.com</td>
+			<td>X</td>
+			<td></td>
+		</tr>
+
+	</table>
+	
+</body>
+</html>
